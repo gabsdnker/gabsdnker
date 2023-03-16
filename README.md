@@ -10,9 +10,10 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabsdnker&theme=gotham)
 
 ### Languages Programming
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-java-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Haskel](https://img.shields.io/badge/-haskel-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 ### Social Media
 ![Twitch](https://img.shields.io/badge/Twitch-9347FF?logo=twitch&logoColor=white)
