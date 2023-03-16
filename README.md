@@ -1,4 +1,5 @@
-### Hi there!! I'm Gabrielli 👋
+### 👋 Hello! Welcome to my Github profile.
+## My name is Gabrielli and my nickname is Gabi!
 
 ### I'm a Computer Science graduate 💻!
 
@@ -9,15 +10,18 @@
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabsdnker&theme=gotham)
 
-### Languages Programming
+### Languages Programming:
 
+## I'm learning:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+          
 
-### Social Media
+### Social Media:
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gabsdanker)
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/gabi_danker/)
 
 
-### Operacional System 
+### Operacional System: 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?logo=xiaomi&logoColor=white) 
