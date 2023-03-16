@@ -29,7 +29,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?logo=xiaomi&logoColor=white) 
 
-[Snake animation](https://github.com/seu-usuário-aqui/gabsdnker/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/gabsdnker/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabsdnker&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
