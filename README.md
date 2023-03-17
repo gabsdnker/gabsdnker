@@ -11,10 +11,12 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabsdnker&theme=gotham)
 
 ### Languages Programming:
+<img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img scr= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
 
 ## I'm learning...
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+
+          
 
 ### Social Media:
 <div>
