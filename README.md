@@ -1,46 +1,50 @@
-### 👋 Hello! Welcome to my Github profile.
-### My name is Gabrielli and my nickname is Gabi!
+<p>
+  
+Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
+  
+<details>
+  <summary>🧑 More about me</summary>
 
-### I'm a Computer Science graduate 💻!
+- 🔭 I’m currently on a journey to build **great** things
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabsdnker&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsdnker&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+- 🌱 I’m currently learning **many things** 🤓
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabsdnker&theme=gotham)
+- 🤝 I’m looking for help with **finding projects to contribute to!**
 
-### Languages Programming:
+- 📫 Reach me out at **gabriellidanker9@gmail.com**
 
-
-### I'm learning...
-          
-
-### Social Media:
-<div>
-  <a href="https://instagram.com/gabi_danker" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/gabi_danker" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriellidanker9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-</div>
-
-
-### Operacional System: 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
-![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?logo=xiaomi&logoColor=white) 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gabsdnker&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</details>
+  
 </p>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{FabioJuniorJr}/count.svg" /></p> 
-<br></div>
+## 🔥 Github Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+<img align="right" width="38%" src="https://i.imgur.com/VxANS89.jpg"/>
+
+  <a href="https://github.com/gabsdnker"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=gabsdnker&theme=radical&title_color=ff3068"></a>
+  <a href="https://github.com/gabsdnker"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=gabsdnker&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
+<p align="right">
+ 
+  <a href="https://github.com/Giingu?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fgabsdnker"/></a>
+  <a href="https://github.com/Giingu?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/gabsdnker?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/giingu">
+</p>
+  
+## Languages and Tools
+  <a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+  <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+  <br/>
+## Software
+  <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+  <br/>
+   <br/>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=gabsdnker&row=4&theme=onedark&no-frame=true"/>
+    </a>    
+    </a>
+
+  <div>
