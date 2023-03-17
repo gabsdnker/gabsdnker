@@ -11,7 +11,7 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabsdnker&theme=gotham)
 
 ### Languages Programming:
-<div:
+<div>
   <img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img scr= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
 </div>
