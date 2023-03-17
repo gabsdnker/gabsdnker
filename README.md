@@ -13,7 +13,8 @@
 ### Languages Programming:
 
 ## I'm learning...
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
 
 ### Social Media:
 <div>
@@ -28,8 +29,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?logo=xiaomi&logoColor=white) 
-
-![Snake animation](https://github.com/seu-usuário-aqui/gabsdnker/blob/output/github-contribution-grid-snake.svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gabsdnker&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
