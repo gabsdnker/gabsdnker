@@ -1,5 +1,5 @@
 ### 👋 Hello! Welcome to my Github profile.
-## My name is Gabrielli and my nickname is Gabi!
+### My name is Gabrielli and my nickname is Gabi!
 
 ### I'm a Computer Science graduate 💻!
 
@@ -11,7 +11,10 @@
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gabsdnker&theme=gotham)
 
 ### Languages Programming:
-<img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><img scr= "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
+<div:
+  <img src= "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img scr= "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
+</div>
 
 ## I'm learning...
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
