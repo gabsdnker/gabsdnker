@@ -99,5 +99,5 @@ Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
     </a>    
     </a>
   <div>
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=gabsdnker.visitor-badge)  
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=gabsdnker)  
   
