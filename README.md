@@ -92,12 +92,14 @@ Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
 ## Music
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
   <br/>
-
+  <br/>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gabsdnker)
+  
    <br/>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=gabsdnker&row=4&theme=onedark&no-frame=true"/>
     </a>    
     </a>
-  <div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gabsdnker)
+
+
   
