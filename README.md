@@ -93,7 +93,7 @@ Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)
   <br/>
   <br/>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gabsdnker)
+
   
    <br/>
       <a href="https://github.com/ryo-ma/github-profile-trophy">
