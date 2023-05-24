@@ -100,6 +100,11 @@ Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=gabsdnker&row=4&theme=onedark&no-frame=true"/>
     </a>    
     </a>
+    
+  <div align="center">
+    <br><p align="centre"><b>Visitors Count</b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabsdnker}/count.svg" /></p> 
+  <br></div>
 
 
   
