@@ -19,7 +19,7 @@ Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
 
 ## 🔥 Github Stats
 
-<img align="right" width="38%" src="https://1.bp.blogspot.com/-X-6SE5tkYXQ/YGsmOndovYI/AAAAAAAAhq0/ykHftJvjDestzyHpkAq63OTyjQBn4_ZMgCNcBGAsYHQ/s1132/darling-in-the-franxx-zerotwo-wallpapers%2B%25283%2529.png"/>
+<img align="right" width="38%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtK6GddPeZwol_4bS4440iRKJ0gw8YCWp7lqxC7dnkQ6C2LBjrAUhjgkkPA72dkPLbsTsd-ks2gUh0q0I90DT0p9vm8_yMJBoJKQ1gyP9qpKX4KCW52ikR2ije4g0X8pZS56wAuQ6Q4QZFWAUDMD_hs42LrCTcxKZWw0R9NA-mf84UajEKtDcNFFxzYw/s0/Lucy%20(Edgerunners)%2010072022.jpg"/>
 
   <a href="https://github.com/gabsdnker"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=gabsdnker&theme=radical&title_color=ff3068"></a>
   <a href="https://github.com/gabsdnker"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=gabsdnker&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
