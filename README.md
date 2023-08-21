@@ -21,10 +21,8 @@ Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
 
 <img align="right" width="38%" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtK6GddPeZwol_4bS4440iRKJ0gw8YCWp7lqxC7dnkQ6C2LBjrAUhjgkkPA72dkPLbsTsd-ks2gUh0q0I90DT0p9vm8_yMJBoJKQ1gyP9qpKX4KCW52ikR2ije4g0X8pZS56wAuQ6Q4QZFWAUDMD_hs42LrCTcxKZWw0R9NA-mf84UajEKtDcNFFxzYw/s0/Lucy%20(Edgerunners)%2010072022.jpg"/>
 
-  <a href="https://github.com/gabsdnker"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=gabsdnker&theme=radical&title_color=ff3068"></a>
+  
   <a href="https://github.com/gabsdnker"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=gabsdnker&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsdnker&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
-  <p align="right">
   
  
   <a href="https://github.com/Giingu?tab=repositories&sort=stargazers">
