@@ -18,9 +18,6 @@ Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
 </p>
 
 ## 🔥 Github Stats
-
-
-  <a href="https://github.com/gabsdnker"><img width="50%" src="http://github-readme-streak-stats.herokuapp.com/?user=gabsdnker&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068"></a>
   
  
   <a href="https://github.com/Giingu?tab=repositories&sort=stargazers">
