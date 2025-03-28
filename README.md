@@ -93,6 +93,11 @@ Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=gabsdnker&row=4&theme=onedark&no-frame=true"/>
     </a>    
     </a>
+<div>
+  <a href="https://github.com/gabsdnker">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
     
   <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
