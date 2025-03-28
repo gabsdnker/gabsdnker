@@ -92,15 +92,13 @@ Hi 👋, I am **Gabrielli**!! I'm a Computer Science gradute✨
       <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=gabsdnker&row=4&theme=onedark&no-frame=true"/>
     </a>    
-    </a>
     
 <div>
   <a href="https://github.com/gabsdnker">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsdnker&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsdnker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="100em" src="https://github-readme-stats.vercel.app/api?username=gabsdnker&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-    </a>    
-    </a>
+
   <div align="center">
     <br><p align="centre"><b>Visitors Count</b></p>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabsdnker}/count.svg" /></p> 
