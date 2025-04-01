@@ -2,7 +2,7 @@
 ## Welcome to my GitHub profile 👋
   
 <details>
-  <summary>🧑 More about me</summary>
+  <summary>🧑 More about me...</summary>
 
 - 🔭 I’m currently on a journey to build **great** things
 
@@ -24,14 +24,9 @@
   
 </p>
 
-## Tools and Technologies
+## Tools and Technologies...
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
           
-          
-          
-           
-
-
 </p>
 
 ## Contacts...
