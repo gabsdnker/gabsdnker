@@ -13,6 +13,8 @@
 - 📫 Reach me out at **gabriellidanker9@gmail.com**
 
 </details>
+
+<div class="tenor-gif-embed" data-postid="17761219" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/gato-digitando-cat-kitten-kitty-gif-17761219">Gato Digitando GIF</a>from <a href="https://tenor.com/search/gato-gifs">Gato GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
 </p>
 
