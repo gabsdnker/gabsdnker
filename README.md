@@ -1,4 +1,5 @@
-# Hi, my name is *Gabrielli* !                           <img align="right" width="150px" style="margin-top:-20px" src="https://github.com/gabsdnker/gabsdnker/blob/main/octocat-1743597396823.png">
+ <img align="center" width="200px" style="margin-top:-20px" src="https://github.com/gabsdnker/gabsdnker/blob/main/octocat-1743597396823.png">
+# Hi, my name is *Gabrielli* !                         
 ## Welcome to my GitHub profile 👋
   
 <details>
