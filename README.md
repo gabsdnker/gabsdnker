@@ -1,5 +1,5 @@
-                            # Hi, my name is *Gabrielli* !
-                          ## Welcome to my GitHub profile 👋
+# Hi, my name is *Gabrielli* !
+## Welcome to my GitHub profile 👋
   
 <details>
   <summary>🧑 More about me...</summary>
