@@ -54,6 +54,7 @@
 </p>
 
 ## Tools and Technologies...
+<p align="left">
 <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
 </a>
@@ -74,6 +75,7 @@
 </a>
 
 ### Database...
+<p align="left">
 <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
 </a>
