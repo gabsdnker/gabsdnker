@@ -17,15 +17,36 @@
 </p>
 
 ## I'm learning...
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" height="40"> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-          
-          
+     
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="icons/java.svg" alt="Java" width="40" height="40" /> 
+</a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <img src="icons/python.svg" alt="Python" width="40" height="40" /> 
+</a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40" /> 
+</a> 
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+  <img src="icons/bootstrap.svg" alt="Bootstrap" width="45" height="40" /> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+  <img src="icons/html5.svg" alt="HTML5" width="40" height="40" /> 
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+  <img src="icons/css3.svg" alt="CSS3" width="40" height="40" /> 
+</a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
+  <img src="icons/django.svg" alt="Django" width="80" height="40" /> 
+</a> 
   
 </p>
 
 ## Tools and Technologies...
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
+<a href="https://code.visualstudio.com/brand" target="_blank" rel="noreferrer"> 
+  <img src="icons/vscode.png" alt="VSCode" width="40" height="40" /> 
+</a> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
           
 </p>
 
