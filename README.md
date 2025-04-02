@@ -2,7 +2,7 @@
    <img width="300px" style="margin-top:10px" src="https://github.com/gabsdnker/gabsdnker/blob/main/octocat-1743597396823.png">
 </div>
 </p>
-<h1 align = "center">Hi, my name is Gabrielli ! </h1>                 
+<h1 align = "center">Hi, my name is <em>Gabrielli</em> ! </h1>                 
 <h3 align = "center">  Welcome to my GitHub profile 👋</h3> 
   
 <details>
