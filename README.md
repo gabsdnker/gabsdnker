@@ -2,8 +2,8 @@
    <img width="300px" style="margin-top:10px" src="https://github.com/gabsdnker/gabsdnker/blob/main/octocat-1743597396823.png">
 </div>
 </p>
-# Hi, my name is *Gabrielli* !                         
-## Welcome to my GitHub profile 👋
+<h1>Hi, my name is Gabrielli ! </h1>                 
+<h2>  Welcome to my GitHub profile 👋</h2> 
   
 <details>
   <summary>🧑 More about me...</summary>
