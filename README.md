@@ -1,4 +1,4 @@
-# Hi, my name is *Gabrielli* !
+# Hi, my name is *Gabrielli* !                           <img align="right" width="150px" style="margin-top:-20px" src="https://i.ibb.co/C5rtHLd/jeni01.png">
 ## Welcome to my GitHub profile 👋
   
 <details>
