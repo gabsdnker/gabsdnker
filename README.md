@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi, my name is *Gabrielli* ! </h1>
+# Hi, my name is *Gabrielli* !
 ## Welcome to my GitHub profile 👋
   
 <details>
