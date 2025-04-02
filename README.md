@@ -1,8 +1,8 @@
 # Hi, my name is *Gabrielli* !                         
 ## Welcome to my GitHub profile 👋
 
-<div>
-   <img align-items="center" width="300px" style="margin-top:10px" src="https://github.com/gabsdnker/gabsdnker/blob/main/octocat-1743597396823.png">
+<div align-items="center">
+   <img width="300px" style="margin-top:10px" src="https://github.com/gabsdnker/gabsdnker/blob/main/octocat-1743597396823.png">
 </div>
   
 <details>
