@@ -5,8 +5,8 @@
 <h1 align = "center">Hi, my name is Gabrielli ! </h1>                 
 <h3 align = "center">  Welcome to my GitHub profile 👋</h3> 
   
-<details align = "center">
-  <summary align = "center">🧑 More about me...</summary>
+<details>
+  <summary>🧑 More about me...</summary>
 
 - 🔭 I’m currently on a journey to build **great** things
 
