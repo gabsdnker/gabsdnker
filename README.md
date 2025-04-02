@@ -3,7 +3,7 @@
 </div>
 </p>
 <h1 align = "center">Hi, my name is Gabrielli ! </h1>                 
-<h2 align = "center">  Welcome to my GitHub profile 👋</h2> 
+<h3 align = "center">  Welcome to my GitHub profile 👋</h3> 
   
 <details>
   <summary>🧑 More about me...</summary>
