@@ -73,6 +73,13 @@
 <a>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="40" height="40"/> 
 </a>
+<a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="40" height="40"/>
+</a>
+<a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
+</a>
+</p>
 
 ### Database...
 <p align="left">
@@ -87,8 +94,6 @@
 </a>
           
 </p>
-### IDE's...
-<p align="left">
 <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="40" height="40"/>
 </a>
