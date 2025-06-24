@@ -15,6 +15,8 @@
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
 - 📫 Reach me out at **gabriellidanker9@gmail.com**
+  
+- 🌐 My portfolio is: **https://gabsdnker.github.io/gabidanker.github.io/**
 
 </details>
   
