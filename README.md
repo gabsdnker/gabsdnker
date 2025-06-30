@@ -23,12 +23,7 @@
 </p>
 
 ## I'm learning...
-<p align="left">
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/>
-</a>
-
-   
+<p align="left">   
 <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> 
 </a>
@@ -43,6 +38,11 @@
 
 ## Languages...
 <p align="left">
+<a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/>
+</a>
+
+   
 <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 </a>
