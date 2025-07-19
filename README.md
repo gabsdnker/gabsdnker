@@ -16,7 +16,7 @@
 
 - 📫 Reach me out at **gabriellidanker9@gmail.com**
   
-- 🌐 My portfolio is: **https://gabsdnker.github.io/gabidanker.github.io/**
+- 🌐 My portfolio is: **[https://gabsdnker.github.io/gabidanker.github.io/](https://gabsdnker.github.io/Portifolio/)**
 
 </details>
   
