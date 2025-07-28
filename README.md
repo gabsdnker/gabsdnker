@@ -1,5 +1,5 @@
 <div align="center">
-   <img width="300px" style="margin-top:10px" src="(https://github.com/gabsdnker/gabsdnker/blob/c514698014cdfa86337a70b8e254713cf1a17f70/octocat-1753712428265.png)">
+   <img width="300px" style="margin-top:10px" src=["(https://github.com/gabsdnker/gabsdnker/blob/c514698014cdfa86337a70b8e254713cf1a17f70/octocat-1753712428265.png)"](https://github.com/gabsdnker/gabsdnker/blob/c514698014cdfa86337a70b8e254713cf1a17f70/octocat-1753712428265.png)">
 </div>
 </p>
 <h1 align = "center">Hi, my name is <em>Gabrielli</em> ! </h1>                 
