@@ -31,10 +31,7 @@
 
 <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a> <br>
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=gabsdnker&theme=radical" /></p>
-
+</a> 
           
 </p>
 
@@ -145,4 +142,6 @@
   <a href="https://github.com/gabsdnker">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsdnker&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<br>
 
+<p><img src="https://github-profile-trophy.vercel.app/?username=gabsdnker&theme=radical" /></p>
