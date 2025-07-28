@@ -31,7 +31,9 @@
 
 <a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
+</a> <br>
+
+<p><img src="https://github-profile-trophy.vercel.app/?username=gabsdnker&theme=radical" /></p>
 
           
 </p>
