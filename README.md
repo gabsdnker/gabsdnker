@@ -34,7 +34,7 @@
 </a> 
 
 <a>
-  <img src="https://img.icons8.com/color/48/000000/spring-boot.png" width="40" height="40"/>
+  <img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" width="40" height="40"/>
 </a> 
           
 </p>
