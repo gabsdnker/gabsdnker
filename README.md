@@ -33,10 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </a> 
 
-
 <a>
-   ![Spring Boot](https://img.icons8.com/color/48/000000/spring-boot.png)
-</a>
+  <img src="https://img.icons8.com/color/48/000000/spring-boot.png" width="40" height="40"/>
+</a> 
           
 </p>
 
