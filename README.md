@@ -26,7 +26,7 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />](https://www.java.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img src="https://spring.io/images/projects/spring-boot-7f2e24fb962501672cc91ccd285ed2ba.svg" width="40" height="40" />](https://spring.io/projects/spring-boot)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/springboot/springboot-original-wordmark.svg" width="40" height="40" />](https://spring.io/projects/spring-boot)
 
 
 
