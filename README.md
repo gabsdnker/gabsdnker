@@ -24,9 +24,6 @@
 
 ## I'm learning...
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />](https://www.java.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
 
 ## Languages...
 <p align="left">
@@ -54,7 +51,7 @@
 </a>
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />](https://www.java.com)
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<a 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 </p>
 
