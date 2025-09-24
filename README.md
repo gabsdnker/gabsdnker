@@ -53,10 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
 </a>
 
-<a href="https://www.java.com" target="_blank" rel="noopener">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="24" height="24" alt="Java"/>
-</a>
-
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />](https://www.java.com)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<a 
 
 </p>
 
