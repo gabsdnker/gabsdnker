@@ -8,9 +8,13 @@
 <details>
   <summary>🧑 More about me...</summary>
 
-- 🔭 I’m currently on a journey to build **great** things
+- 🔭 Currently working as an RPA Intern, developing enterprise automations.
 
-- 🌱 I’m currently learning Java.
+- 🌱 Learning Power Platform, Power Automate Cloud, Dataverse and Process Automation.
+
+- 🤖 Working with RPA, workflow automation and business process optimization.
+
+- 🚀 Passionate about automation, low-code solutions and software development.
 
 - 🤝 I’m looking for help with **finding projects to contribute to!**
 
