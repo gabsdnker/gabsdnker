@@ -1,149 +1,116 @@
 <div align="center">
-   <img width="300px" style="margin-top:10px" src="https://github.com/gabsdnker/gabsdnker/blob/c514698014cdfa86337a70b8e254713cf1a17f70/octocat-1753712428265.png"> 
+
+<img width="250" src="https://github.com/gabsdnker/gabsdnker/blob/main/octocat-1753712428265.png">
+
+# Hi 👋, I'm Gabrielli Danker
+
+### RPA Developer • Computer Science Student • Automation Enthusiast
+
 </div>
-</p>
-<h1 align = "center">Hi, my name is <em>Gabrielli</em> ! </h1>                 
-<h3 align = "center">  Welcome to my GitHub profile 👋</h3> 
-  
-<details>
-  <summary>🧑 More about me...</summary>
 
-- 🔭 Currently working as an RPA Intern, developing enterprise automations.
+---
 
-- 🌱 Learning Power Platform, Power Automate Cloud, Dataverse and Process Automation.
+## 🚀 About Me
 
-- 🤖 Working with RPA, workflow automation and business process optimization.
+- 🎓 Computer Science student at Instituto Federal Catarinense
+- 💼 RPA Intern working with enterprise automation solutions
+- 🤖 Experience with Power Automate, UiPath, Automation Anywhere and Blue Prism
+- 🌱 Currently learning Power Platform, Dataverse and Cloud Automation
+- 💻 Interested in Software Development, Automation and System Integrations
+- 🗄️ Experience with relational databases such as MySQL, SQLite and MariaDB
+- 🚀 Passionate about transforming manual processes into efficient digital solutions
 
-- 🚀 Passionate about automation, low-code solutions and software development.
+### 🌐 Portfolio
 
-- 🤝 I’m looking for help with **finding projects to contribute to!**
+🔗 **Portfolio:** https://gabsdnker.github.io/Portifolio/
 
-- 📫 Reach me out at **gabriellidanker9@gmail.com**
-  
-- 🌐 My portfolio is: **[https://gabsdnker.github.io/gabidanker.github.io/](https://gabsdnker.github.io/Portifolio/)**
+### 📫 Contact
 
-</details>
-  
-</p>
+📧 **Email:** gabriellidanker9@gmail.com
 
-## I'm learning...
+---
 
+## 🤖 RPA & Automation
 
-## Languages...
 <p align="left">
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40"/>
-</a>
-
-   
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
-</a>
-
-   
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"width="40" height="40"/>
-</a>
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" width="40" height="40"/>
-</a>
-
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-</a>
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="45"/>
 </p>
 
-## Tools and Technologies...
+**Platforms**
+
+- Power Automate
+- Power Platform
+- UiPath
+- Automation Anywhere
+- Blue Prism
+
+---
+
+## 💻 Languages
+
 <p align="left">
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="40" height="40"/>
-</a>
-
-   
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
-</a>
-
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-
-
-<a>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" width="40" height="40"/>
-</a>
-
-
-<a>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" width="40" height="40"/> 
-</a>
-
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
 </p>
 
-### Database...
+---
+
+## 🛠️ Tools & Technologies
+
 <p align="left">
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</a>
-
-   
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="40" height="40"/>
-</a>
-
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</a>
-
-
-<a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="40" height="40"/>
-</a>
-
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original-wordmark.svg" width="45"/>
 </p>
 
-## Contacts...
-  
-<div>
-    <a href="https://instagram.com/gabi_danker" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:gabriellidanker9@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/gabrielli-danker-0b6b9991" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+---
 
-### I have social networks about technology...
-<div>
-    <a href="https://instagram.com/exploracodigo" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:exploracodigo@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## 🗄️ Databases
 
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
 </p>
-<div align = "center">
-  <a href="https://github.com/gabsdnker">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsdnker&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=gabsdnker&theme=radical" /></p>
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabsdnker&show_icons=true&theme=radical"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabsdnker&layout=compact&langs_count=8&theme=radical"/>
+
+</div>
+
+---
+
+## 🌎 Connect with Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/gabrielli-danker-0b6b9991">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gabriellidanker9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/gabi_danker">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 💡 Motto
+
+> "Automation is not about replacing people. It's about empowering them to focus on what matters most."
